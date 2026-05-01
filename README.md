@@ -6,6 +6,8 @@ Inspired by the terminal environment of Lumon Industries as seen in *Severance*,
 
 Please enjoy each command equally.
 
+![Lumon Terminal](assets/lumon-terminal.png)
+
 ## Installation
 
 ### 1. Obtain the profile
@@ -44,6 +46,8 @@ After installation:
 4. Click Change… next to the font.
 5. Select Ioskeley Mono Regular.
 6. Recommended size: 12 or 13.
+
+![Terminal theme preview](assets/preview.png)
 
 ## Disclaimer
 
